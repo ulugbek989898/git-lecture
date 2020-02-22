@@ -6,3 +6,5 @@ Farxod,
 Musobek,
 Hilola,
 Durdona
+Hurshid,
+Sardor
